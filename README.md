@@ -18,6 +18,8 @@ This handwritten number set is the "Hello World" of machine learning, and is a g
 
 The Fashion MNIST data set, rather than numbers, includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works well. 
 
+Some examples of images in the Fashion MNIST data set: ![gaming](https://storage.googleapis.com/tfds-data/visualization/fig/fashion_mnist-3.0.1.png)
+
 **Check out the Fashion MNIST data set** [here](https://www.kaggle.com/zalando-research/fashionmnist).
 
 Now that the intro is out of the way, we can start to establish some goals for the project
@@ -31,7 +33,7 @@ Now that the intro is out of the way, we can start to establish some goals for t
 
 Do something creative related to ML and fashion
 
-Jed's preliminary ideas (feel free to add more!)
+Jed's preliminary ideas (feel free to add more!):
 1. Frame-by-frame video analysis of runway models from different angles, trying to classify (may be hard to get data)
 2. Progressively harder images with multiple articles of clothing (may need to do image resizing, any **EECS 280** people catch my drift?
 3. App/Program that can classify one's outfit with a photo/video, or maybe even classify movement (significantly more of a reach)
