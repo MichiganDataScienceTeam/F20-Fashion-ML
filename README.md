@@ -12,7 +12,7 @@ Hello all! Welcome to the humble beginnings of the *Fashion* project for MDST Fa
 
 The classic MNIST data set looks something like this: ![these images](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset.png). 
 
-If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/). 
+**If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/)**. 
 
 This handwritten number set is the "Hello World" of machine learning, and is a good place to start off. 
 
