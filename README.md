@@ -3,13 +3,19 @@
 
 
 # Fashion-ML
-Fall 2020: MNIST/Fashion Machine Learning (and maybe more!)
+
+### Fall 2020: MNIST/Fashion Machine Learning (and maybe more!)
+
+## Intro
 
 Hello all! Welcome to the humble beginnings of the *Fashion* project for MDST Fall 2020! This project is more introductory than free form, but that also means that if we get through the introductory stuff at a decent pace, we have the opportunity to be creative and go beyond. 
 
-The classic MNIST data set looks something like the images linked to below. 
+The classic MNIST data set looks something like [these images](https://www.google.com/search?q=mnist+numbers&tbm=isch&source=iu&ictx=1&fir=KxJ8yY3HAq_ZsM%252C11flyQmz80PJbM%252C_&vet=1&usg=AI4_-
+kRIeqZGzaZbBCCYVQlyw99gZNiAhg&sa=X&ved=2ahUKEwiAx5yliqTsAhVCXc0KHZCODkAQ_h16BAgLEAU#imgrc=KxJ8yY3HAq_ZsM)
 
-https://www.google.com/search?q=mnist+numbers&tbm=isch&source=iu&ictx=1&fir=KxJ8yY3HAq_ZsM%252C11flyQmz80PJbM%252C_&vet=1&usg=AI4_-kRIeqZGzaZbBCCYVQlyw99gZNiAhg&sa=X&ved=2ahUKEwiAx5yliqTsAhVCXc0KHZCODkAQ_h16BAgLEAU#imgrc=KxJ8yY3HAq_ZsM
+If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/)
+
+
 
 
 This handwritten number set is the "Hello World" of machine learning, and is a good place to start off. 
