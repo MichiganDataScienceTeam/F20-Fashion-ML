@@ -10,8 +10,7 @@
 
 Hello all! Welcome to the humble beginnings of the *Fashion* project for MDST Fall 2020! This project is more introductory than free form, but that also means that if we get through the introductory stuff at a decent pace, we have the opportunity to be creative and go beyond. 
 
-The classic MNIST data set looks something like [these images](https://www.google.com/search?q=mnist+numbers&tbm=isch&source=iu&ictx=1&fir=KxJ8yY3HAq_ZsM%252C11flyQmz80PJbM%252C_&vet=1&usg=AI4_-
-kRIeqZGzaZbBCCYVQlyw99gZNiAhg&sa=X&ved=2ahUKEwiAx5yliqTsAhVCXc0KHZCODkAQ_h16BAgLEAU#imgrc=KxJ8yY3HAq_ZsM)
+The classic MNIST data set looks something like [these images](https://www.google.com/search?q=mnist+numbers&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjuyuDox6XsAhXZPM0KHTgHDWQQ_AUoAXoECA8QAw&biw=1620&bih=938)
 
 If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/)
 
