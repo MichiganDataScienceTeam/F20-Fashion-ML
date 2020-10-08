@@ -21,7 +21,7 @@ https://www.kaggle.com/zalando-research/fashionmnist  **FASHION MNIST SET**
 Now that the intro is out of the way, we can start to establish some goals for the project
 
 PRIMARY GOALS:
-1: Learn about machine learning algorithms and popular Python ML libraries (Tensorflow, Pytorch, Keras, Sklearn, we can pick and choose)
+1: Learn about machine learning algorithms and popular Python ML libraries (Tensorflow, Pytorch, Keras, Sklearn, we can pick and choose) 
 2: Progressively make more complex and efficient algorithms and check against the Fashion MNIST data set. 
 
 REACH GOALS, **but possibly the coolest stuff**
