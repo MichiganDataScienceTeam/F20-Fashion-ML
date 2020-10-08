@@ -40,3 +40,4 @@ App/Program that can classify one's outfit with a photo/video, or maybe even cla
 As the project leader, I want to make sure that this goes well, but I also want to respect everyone's current situations, so we can dictate the pace of the project together. I also don't have a ton of ML experience, but I have a passion to learn, a good amount of math under my belt, and a lot of moxie. There may be times where I don't know the answer right away, or you may encounter a concept that I am not the strongest in, but I assure you I will try to figure it out with you, and we will get the bread. 
 
 I live by the philosophy that if one can teach something, they know it well, and I will try to become a great teacher. If anyone also wants to chill, talk, or just vent, hit me up! I'm looking forward to working with everyone and to make something awesome!
+
