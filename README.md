@@ -18,7 +18,7 @@ This handwritten number set is the "Hello World" of machine learning, and is a g
 
 The Fashion MNIST data set, rather than numbers, includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works well. 
 
-**Check out the Fashion MNIST data set [here](https://www.kaggle.com/zalando-research/fashionmnist)
+**Check out the Fashion MNIST data set** [here](https://www.kaggle.com/zalando-research/fashionmnist)
 
 Now that the intro is out of the way, we can start to establish some goals for the project
 
