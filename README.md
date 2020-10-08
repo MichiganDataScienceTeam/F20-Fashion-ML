@@ -47,3 +47,7 @@ As the project leader, I want to make sure that this goes well, but I also want 
 
 I live by the philosophy that if one can teach something, they know it well, and I will try to become a great teacher. If anyone also wants to chill, talk, or just vent, hit me up! I'm looking forward to working with everyone and to make something awesome!
 
+## Another Note to All:
+
+My friends call me Impostor God btw. Git Gud. 
+
