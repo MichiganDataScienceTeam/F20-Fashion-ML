@@ -18,16 +18,16 @@ This handwritten number set is the "Hello World" of machine learning, and is a g
 
 The Fashion MNIST data set, rather than numbers, includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works well. 
 
-https://www.kaggle.com/zalando-research/fashionmnist  **FASHION MNIST SET**
+**Check out the Fashion MNIST data set [here](https://www.kaggle.com/zalando-research/fashionmnist)
 
 Now that the intro is out of the way, we can start to establish some goals for the project
 
-## PRIMARY GOALS:
+## Primary Goals:
 1.  Learn about machine learning algorithms (CNN, etc) and popular Python ML libraries (Tensorflow, Pytorch, Keras, Sklearn, we can pick and choose) 
 2.  Progressively make more complex and efficient algorithms and check against the Fashion MNIST data set. 
 3.  In the end, make a classifier that can successfully classify different articles of clothing. 
 
-##REACH GOALS, (if we have time at the end):
+## Reach Goals, (if we have time at the end):
 
 Do something creative related to ML and fashion
 
