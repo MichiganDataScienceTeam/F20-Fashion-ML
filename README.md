@@ -10,15 +10,15 @@
 
 Hello all! Welcome to the humble beginnings of the *Fashion* project for MDST Fall 2020! This project is more introductory than free form, but that also means that if we get through the introductory stuff at a decent pace, we have the opportunity to be creative and go beyond. 
 
-The classic MNIST data set looks something like [these images](https://www.google.com/search?q=mnist+numbers&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjuyuDox6XsAhXZPM0KHTgHDWQQ_AUoAXoECA8QAw&biw=1620&bih=938) . 
+The classic MNIST data set looks something like [these images](https://www.google.com/search?q=mnist+numbers&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjuyuDox6XsAhXZPM0KHTgHDWQQ_AUoAXoECA8QAw&biw=1620&bih=938). 
 
-If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/) . 
+If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/). 
 
 This handwritten number set is the "Hello World" of machine learning, and is a good place to start off. 
 
 The Fashion MNIST data set, rather than numbers, includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works well. 
 
-**Check out the Fashion MNIST data set** [here](https://www.kaggle.com/zalando-research/fashionmnist)
+**Check out the Fashion MNIST data set** [here](https://www.kaggle.com/zalando-research/fashionmnist).
 
 Now that the intro is out of the way, we can start to establish some goals for the project
 
