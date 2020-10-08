@@ -7,25 +7,25 @@ Fall 2020: MNIST/Fashion Machine Learning (and maybe more!)
 
 Hello all! Welcome to the humble beginnings of the *Fashion* project for MDST Fall 2020! This project is more introductory than free form, but that also means that if we get through the introductory stuff at a decent pace, we have the opportunity to be creative and go beyond. 
 
-The classic MNIST data set, a fundamental machine learning algorithm for images, looks something like the images linked to below. 
+The classic MNIST data set looks something like the images linked to below. 
 
 https://www.google.com/search?q=mnist+numbers&tbm=isch&source=iu&ictx=1&fir=KxJ8yY3HAq_ZsM%252C11flyQmz80PJbM%252C_&vet=1&usg=AI4_-kRIeqZGzaZbBCCYVQlyw99gZNiAhg&sa=X&ved=2ahUKEwiAx5yliqTsAhVCXc0KHZCODkAQ_h16BAgLEAU#imgrc=KxJ8yY3HAq_ZsM
 
 
-Thishandwritten number set is the "Hello World" of machine learning, including many handwritten writing samples in addition to an extensive training set (images that are classified by humans in advance). 
+This handwritten number set is the "Hello World" of machine learning, and is a good place to start off. 
 
-The Fashion MNIST data set, is similar to this, but rather than numbers, it includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works. 
+The Fashion MNIST data set, is similar to this, but rather than numbers, it includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works well. 
 
 https://www.kaggle.com/zalando-research/fashionmnist  **FASHION MNIST SET**
 
 Now that the intro is out of the way, we can start to establish some goals for the project
 
 PRIMARY GOALS:
-1: Learn about machine learning algorithms and popular Python ML libraries (Tensorflow, Pytorch, Keras, Sklearn, we can pick and choose) 
+1: Learn about machine learning algorithms (CNN, etc) and popular Python ML libraries (Tensorflow, Pytorch, Keras, Sklearn, we can pick and choose) 
 2: Progressively make more complex and efficient algorithms and check against the Fashion MNIST data set. 
-3: In the end, make a classifier that can classify different articles of clothing. 
+3: In the end, make a classifier that can successfully classify different articles of clothing. 
 
-REACH GOALS, if we have time at the end
+REACH GOALS, if we have time at the end:
 
 Do something creative related to ML and fashion
 
