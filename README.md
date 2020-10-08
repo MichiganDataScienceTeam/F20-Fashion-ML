@@ -14,7 +14,7 @@ The classic MNIST data set looks something like this: ![these images](https://3q
 
 **If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/)**. 
 
-This handwritten number set is the "Hello World" of machine learning, and is a good place to start off. 
+This handwritten number set is the "Hello World" of machine learning, and is a good place to start off. A successful algorithm would classify each of the shown as a correct number, but notice how issues could arrive with the diagonal 1, for example. 
 
 The Fashion MNIST data set, rather than numbers, includes an extensive amount of clothing, split up into 10 categories for the sake of the training set. Fashion MNIST is a great benchmark, similar to classic MNIST, that a machine learning algorithm works well. 
 
