@@ -49,5 +49,5 @@ I live by the philosophy that if one can teach something, they know it well, and
 
 ## Another Note to All:
 
-My friends call me Impostor God btw. Git Gud. 
+My friends call me Impostor God btw. Git Gud. (Pun intended)
 
