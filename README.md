@@ -10,7 +10,7 @@
 
 Hello all! Welcome to the humble beginnings of the *Fashion* project for MDST Fall 2020! This project is more introductory than free form, but that also means that if we get through the introductory stuff at a decent pace, we have the opportunity to be creative and go beyond. 
 
-The classic MNIST data set looks something like ![these images](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset.png). 
+The classic MNIST data set looks something like this: ![these images](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/02/Plot-of-a-Subset-of-Images-from-the-MNIST-Dataset.png). 
 
 If you want to try this data set for yourself, you can find it [here](http://yann.lecun.com/exdb/mnist/). 
 
